@@ -2,7 +2,7 @@
 
 Glad to see you here! I'm Jon Pablo, a **Software Developer** who primarily works with **Python**, **JavaScript** and actively contributes to **open-source**.
 
-Currently, I'm reading [System Design Interview – An insider's guide](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide). In my spare time, I look
+Currently, I'm reading [System Design Interview – An insider's guide](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide). In my spare time, I look for
 open-source projects to contribute to. 
 
 ### Open-Source Contributions
