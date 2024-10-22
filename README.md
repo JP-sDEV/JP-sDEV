@@ -10,6 +10,8 @@ open-source projects to contribute to.
 - [pycloudlib](https://github.com/canonical/pycloudlib)
 - [ray](https://github.com/ray-project/ray)
 - [ToolJet](https://github.com/ToolJet/ToolJet)
+- [dice](https://github.com/DiceDB/dice)
+- [Qtcord](https://github.com/mak448a/Qtcord)
 
 ### Tech Stack
 
@@ -30,5 +32,4 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=jp-sdev&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-
 </p>
